@@ -1,0 +1,20 @@
+# virtual envoironment
+venv/
+
+# Python 
+_pycache_/
+*.py[cod]
+*$py.class
+
+# Juypter
+.ipynb_checkpoints/
+
+#Environment Variables
+.env
+
+#VS Code
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
